@@ -1,0 +1,10 @@
+{
+  "tasks": {
+    "odi_prediction": {
+      "file_type": "yaml",
+      "train_dir": "data/prediction/train",
+      "test_dir": "data/prediction/test",
+      "cricinfo_url": "http://www.espncricinfo.com/ci/engine/match/%s.html"
+    }
+  }
+}
